@@ -1,0 +1,116 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;700&family=Forum&display=swap");
+
+
+body {
+    background: url(../images/login.jpg);
+    /* opacity: 0.5; */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    font-family: Arial, sans-serif;
+    background-color: #060505;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    
+    
+}
+.login-container {
+    background-color: #ffffff;
+    padding: 30px 35px 8px;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgb(249, 243, 249);
+    width: 250px;
+    opacity: 1;
+    
+}
+.login{
+    text-align: center;
+    color: #0d0d0d;
+}
+#login {
+    
+    font-weight: 900;
+    /* letter-spacing: 6.0; */
+    color: rgb(70, 70, 70);
+    text-shadow: 1px 1px 2px;
+    
+}
+input[type="text"],
+input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 2%px;
+    font-family:sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+/* input:active{
+    border: none;
+} */
+input:hover{
+    box-shadow: 1px 1px 1px black;
+}
+button {
+    width: 100%;
+    padding: 13px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: medium;
+    
+}
+button:hover {
+    
+    background-color: #0056b3;
+
+}
+.pas{
+    text-decoration: none;
+    padding: 4%;
+    color: red;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: flex;
+    justify-content: right;
+    font-size: medium;
+
+
+}
+img{
+    height: 80px; width: 70px;
+    display: flex;
+    justify-content: center;
+    
+}
+h4{
+font-family: 'Times New Roman', Times, serif;
+}
+ 
+#user-pass{
+    /* align-items: center;
+    justify-items: center;
+    justify-content: center; */
+    padding: 2% 5% 5%;
+}
+
+p{
+    font-size: 0.8rem;
+}
+p a{
+    text-decoration: none;
+}
+
+
+.form-group{
+    font-size: 0.8rem;
+    font-weight: 550;
+    font-family:monospace;
+}
