@@ -1,6 +1,8 @@
-# University Campus Portal
+# University Campus & Club Portal
 
-A simple web portal for selecting a university club portal. This project was developed during my second year of college to practice fundamental web development skills.
+A simple web portal for selecting a university club . This project was developed during my second year of college to practice fundamental web development skills.
+
+**Live Demo:** [**Click here to view the live project!**](https://symphonious-pithivier-b16ba2.netlify.app/)
 
 ---
 
@@ -8,7 +10,12 @@ A simple web portal for selecting a university club portal. This project was dev
 
 This project is a user-facing interface that allows a student to select their university campus from a list of options (Paralekhmundi, Vizianagaram, Bhubaneswar). Upon selection, the user is redirected to a campus-specific homepage.
 
+A key focus of the project was ensuring a **fully responsive design**, allowing the portal to work seamlessly on any device, from mobile phones to desktops.
+
+While developing this project, I took some guidance and a little AI assistance to help with structuring the backend, frontend, and overall project flow. This reflects my interest in experimenting with real-world project ideas and learning modern development practices.
+
 The original project included a PHP and MySQL backend for user registration and login, but this repository contains a static version focused on the HTML, CSS, and JavaScript frontend.
+
 
 ### Key Features:
 *   Clean, card-based UI for campus selection.
@@ -41,8 +48,6 @@ From there, you can navigate through the different static pages to see the UI fo
 
 ## Screenshots
 
-*(It's highly recommended to add screenshots here to show off your work!)*
-
 **Campus Selection Page:**
 ![Campus Selection](./resposive-hompage/images/campusselection_ss.png)
 
@@ -63,6 +68,6 @@ This project was built using the following technologies:
 ## About Me
 
 *   **Name:** Manda Vamsi Krishna
-*   **LinkedIn:** [Vamsi Krishna Manda](https://www.linkedin.com/in/vamsi-krishna-manda-65b391267/)
+*   **LinkedIn:** [Manda Vamsi Krishna](https://www.linkedin.com/in/vamsi-krishna-manda-65b391267/)
 
 I am a passionate developer interested in full-stack development, with a particular focus on creating AI-native web applications. I believe in leveraging modern tools, including AI assistance, to build software more efficiently and effectively. This project was a foundational learning experience for me in building dynamic web applications from scratch.
